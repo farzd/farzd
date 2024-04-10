@@ -1,4 +1,4 @@
-### NO RECRUITERS
+![farzd's github stats]https://github-readme-stats.vercel.app/api?username=farzd&show_icons=true&theme=tokyonight&include_all_commits=true
 <!-- ![image](https://user-images.githubusercontent.com/1423413/115881665-e2d05400-a443-11eb-8903-2d50ac52f5ad.png) -->
 
 
